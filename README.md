@@ -1,1 +1,1 @@
-# Numanal2
+Assignments for my Numerical Analysis 2 course
